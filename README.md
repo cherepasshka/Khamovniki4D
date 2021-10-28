@@ -1,11 +1,11 @@
-# Хамовники4D
-### Выпускной проект Жуковой Дарьи
-#### Создание и визуализация биографии Михаила Афанасьевича Булгакова в виде графа 
-Чтобы запустить проект нужно установить некоторые ссылки:
+# Khamovniki4D
+### High school graduation project
+#### Creation and visualization of the biography of Mikhail Afanasyevich Bulgakov in the form of a graph 
+To run the project, you need to install some links:
   - CefSharp
   - Neo4jClient
   - Microsoft.Office.Interop.Excel
 
-Установить эти ссылки можно через Visual Studio, используя менеджер пакетов NuGet.
-Также нужно установить Neo4jDesktop и создать в нём локальный граф. 
-Для того чтобы построить граф, используйте тестовую таблицу из файла for_test_inputs если у вас нет своей исходной таблицы.
+You can install these links through Visual Studio using the NuGet Package Manager.
+You also need to install Neo4jDesktop and create a local graph in it.
+In order to build a graph, use the test table from the for_test_inputs file if you do not have your own source table.
